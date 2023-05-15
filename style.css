@@ -1,0 +1,47 @@
+h1 {
+    color: yellow;
+    text-align: center;
+    padding-top: 10px;
+    
+}
+
+#mission {
+    text-align: center  
+    
+}
+
+#images {
+    padding: 30px;
+    padding-left: 5%;
+    border-color: red;
+
+}
+
+body {
+    background-color: black;
+    font-size: large;
+    
+}
+
+p {
+    color: white;
+    font-size: x-large;
+    text-align: justify;
+    padding: 10px;
+    padding-left: 5%;
+}
+
+h2 {
+    color: blue;
+    text-align: left;
+    padding-left: 2%;
+}
+
+li {
+    text-align: left;
+    color: aliceblue;
+    font-size: larger;
+    align-items: center;
+    padding: 10px;
+    padding-left: 2%;
+}
